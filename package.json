@@ -1,6 +1,6 @@
 {
   "name": "is-electron-builtin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check if a string matches the name of a Electron builtin module.",
   "repository": "parro-it/is-electron-builtin",
   "license": "MIT",
